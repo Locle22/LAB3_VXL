@@ -1,0 +1,3 @@
+fsm_auto.c:19:19:clamp_min1	16	static
+fsm_auto.c:20:19:clamp_amber	16	static
+fsm_auto.c:25:6:fsm_auto_run	8	static

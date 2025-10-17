@@ -1,0 +1,6 @@
+global.c:26:6:display7SEG	24	static
+global.c:31:6:display7SEG2	24	static
+global.c:36:6:displayNumber0	24	static
+global.c:53:6:displayNumber1	24	static
+global.c:70:6:LED_monitor	16	static
+global.c:96:6:LED_monitor2	16	static
